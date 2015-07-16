@@ -4,8 +4,9 @@ This poster was presented at SciPy 2015 in Austin, TX, on July 8, 2015.
 
 Authors
 -------
-David L. Dotson     david.dotson@asu.edu
-Oliver Beckstein    oliver.beckstein@asu.edu
+David L. Dotson  /  david.dotson@asu.edu
+
+Oliver Beckstein  /  oliver.beckstein@asu.edu
 
 Abstract
 ----------------------------
