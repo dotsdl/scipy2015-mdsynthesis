@@ -1,5 +1,8 @@
 MDSynthesis: a Python package enabling data-driven molecular dynamics research
 ==============================================================================
+
+|zen|
+
 This poster was presented at SciPy 2015 in Austin, TX, on July 8, 2015.
 
 Authors
@@ -36,4 +39,8 @@ with MD data, and the abstraction the containers provide make it easier to
 write analysis code that works across many variants of a simulation system. The
 package is actively developed and freely available under the GPLv2 from
 https://github.com/Becksteinlab/MDSynthesis.
+
+.. |zen| image:: https://zenodo.org/badge/doi/10.5281/zenodo.20385.svg
+    :alt: Citation
+    :target: http://dx.doi.org/10.5281/zenodo.20385
 
