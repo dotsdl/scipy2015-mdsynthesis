@@ -40,7 +40,7 @@ write analysis code that works across many variants of a simulation system. The
 package is actively developed and freely available under the GPLv2 from
 https://github.com/Becksteinlab/MDSynthesis.
 
-.. |zen| image:: https://zenodo.org/badge/doi/10.5281/zenodo.20385.svg
+.. |zen| image:: https://zenodo.org/badge/doi/10.5281/zenodo.21535.svg
     :alt: Citation
-    :target: http://dx.doi.org/10.5281/zenodo.20385
+    :target: http://dx.doi.org/10.5281/zenodo.21535
 
